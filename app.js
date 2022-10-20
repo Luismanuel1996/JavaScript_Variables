@@ -3,13 +3,9 @@ console.log(
   "Follow the steps in the README.md file to complete the exercises:\n==========\n"
 );
 
-const firstname = Luigi ;
-let lastname = "Cazares" ;
+const firstName = "Luis" ;
+let lastnName = "Cazares" ;
 var age = 26 ;
-
-let firstname = "Luigi" ;
-let lastname = "Cazares";
-let age = 26 ;
 
 let language = "Javascript" ;
 let createdYear = 1995 ;
